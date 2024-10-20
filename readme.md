@@ -1,4 +1,4 @@
-tiny and super unoptimized that involves repeatedly reducing an expression using predefined rules
+tiny and super unoptimized functional-like language that involves repeatedly reducing an expression using predefined rules
 
 ```js
 let apple
